@@ -1,4 +1,4 @@
-# transformer_bert+
+# transformer_bert+xx
 the same as 'BertForSequenceClassification' from Transformer(HuggingFace), you get import this with rnn, cnn, rcnn..
 
 reference 
